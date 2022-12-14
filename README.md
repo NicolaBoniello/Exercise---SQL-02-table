@@ -1,0 +1,1 @@
+# Exercise---SQL-02-table
